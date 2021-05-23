@@ -14,13 +14,13 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9",
-        "dompdf/dompdf": "^0.8.0",
-        "illuminate/database": "~5.3",
-        "illuminate/support": "~5.3",
+        "php": "*",
+        "dompdf/dompdf": "*",
+        "illuminate/database": "*",
+        "illuminate/support": "*",
         "nesbot/carbon": "~1.0",
         "stripe/stripe-php": "~5.0",
-        "symfony/http-kernel": "~2.7|~3.0|~4.0"
+        "symfony/http-kernel": "*"
     },
     "require-dev": {
         "illuminate/http": "~5.3",
