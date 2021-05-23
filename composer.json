@@ -18,17 +18,17 @@
         "dompdf/dompdf": "*",
         "illuminate/database": "*",
         "illuminate/support": "*",
-        "nesbot/carbon": "~1.0",
+        "nesbot/carbon": "^2.0",
         "stripe/stripe-php": "~5.0",
         "symfony/http-kernel": "*"
     },
     "require-dev": {
-        "illuminate/http": "~5.3",
-        "illuminate/routing": "~5.3",
-        "illuminate/view": "~5.3",
-        "mockery/mockery": "~1.0",
-        "phpunit/phpunit": "~5.0",
-        "vlucas/phpdotenv": "~2.0"
+        "illuminate/http": "*",
+        "illuminate/routing": "*",
+        "illuminate/view": "*",
+        "mockery/mockery": "*",
+        "phpunit/phpunit": "*",
+        "vlucas/phpdotenv": "*"
     },
     "autoload": {
         "psr-4": {
