@@ -19,7 +19,7 @@
         "illuminate/database": "*",
         "illuminate/support": "*",
         "nesbot/carbon": "^2.0",
-        "stripe/stripe-php": "~5.0",
+        "stripe/stripe-php": "~7.79.0",
         "symfony/http-kernel": "*"
     },
     "require-dev": {
